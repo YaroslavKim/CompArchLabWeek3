@@ -1,0 +1,7 @@
+|Project2
+pin_name4 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+pin_name2 => inst.IN0
+pin_name1 => inst.IN1
+pin_name3 => inst1.IN1
+
+
